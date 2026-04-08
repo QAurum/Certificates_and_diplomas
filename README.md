@@ -2,6 +2,8 @@
 Certificates from Stepik
 
 ## 2026
+[Инди-курс программирования на Python](https://stepik.org/cert/3205242)
+
 [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/cert/3154349)
 
 ## 2024
